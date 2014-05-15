@@ -1,7 +1,7 @@
-# jfillion.github.io
+# troyswanson.github.io
 
-
-// Note from the original author
+[![Build Status](https://travis-ci.org/troyswanson/troyswanson.github.io.png?branch=master)](https://travis-ci.org/troyswanson/troyswanson.github.io)
+[![Dependency Status](https://gemnasium.com/troyswanson/troyswanson.github.io.png)](https://gemnasium.com/troyswanson/troyswanson.github.io)
 
 Hey, this is Troy Swanson's personal site/blog using GitHub Pages and Jekyll
 
