@@ -14,22 +14,6 @@
   {% include head.html %}
 </head>
 <body>
-  <div class="pure-g-r">
-    <div class="pure-u-1-4">
-      {% include sidebar.html %}
-    </div>
-    <div class="pure-u-3-4">
-      <article vocab="http://schema.org/" typeof="BlogPosting" resource="{{ page.url }}">
-        <h1 property="name">{{ page.title }}</h1>
-        <ul class="meta">
-          <li class="pubdate"><time property="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></li>
-          <li class="permalink"><a property="url" href="{{ site.url }}{{ page.url }}" title="Permalink">∞</a></li>
-        </ul>
-        <div class="body" property="articleBody">
-          {{ content }}
-        </div>
-      </article>
-    </div>
-  </div>
+
 </body>
 </html>
