@@ -13,7 +13,7 @@ title: Hi, I'm J&#233;r&#233;mie Fillion
 		<figure class="portrait-container p">
 			<img class="portrait" src="img/portrait.jpeg" width="150" height="150" alt="This is Emily's face. There are many like it but this one is Emily's.">
 		</figure>
-			<p class="intro">J&#233;r&#233;mie Fillion is a high school student, very soon attending Carleton University in software engineering. He is passionate about computer systems and their inner workings.</p>
+			<p class="intro">Hi, I', J&#233;r&#233;mie Fillion. I am a student at Carleton University, locate in lovely Ottawa, Canada. I am studying software engineering, and am passionate about computer systems and their inner workings. Feel free to contact me anyime.</p>
 			<div class="social">
     			<div class="info">
    
